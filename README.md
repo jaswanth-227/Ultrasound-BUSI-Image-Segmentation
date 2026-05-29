@@ -60,10 +60,10 @@ Due to dataset licensing restrictions and repository size limitations, datasets 
 
 ---
 
-## U-Net with replacable CNN Encoders 
+## U-Net with replaceable CNN Encoders 
 
 <p align="center">
-  <img src="assets/interface.png" width="100%">
+  <img src="assets/U-Net_Encoder.png" width="100%">
 </p>
 ---
 
