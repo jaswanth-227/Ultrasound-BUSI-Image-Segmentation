@@ -1,9 +1,3 @@
-# =========================================================
-# DDTI THYROID ULTRASOUND SEGMENTATION - KAGGLE A TO Z
-# STAGE 2 ONLY
-# MODEL: ConvNeXt-Base + ASPP + Attention Decoder + CBAM + Edge Supervision
-# =========================================================
-
 # =========================
 # 0. INSTALLS
 # =========================
