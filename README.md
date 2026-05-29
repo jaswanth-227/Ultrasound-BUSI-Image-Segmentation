@@ -1,7 +1,4 @@
 # ultrasound-BUSI-image-segmentation
-A comprehensive breast ultrasound image segmentation study evaluating 11 deep learning encoders and 11 transformer backbones, culminating in HEMF-Net, a hierarchical attention-based fusion framework for precise lesion delineation.
-
-# ultrasound-BUSI-image-segmentation
 
 HEMF-Net is a hierarchical multi-scale fusion framework for breast ultrasound image segmentation that systematically evaluates 11 CNN encoders and 11 transformer backbones while introducing a boundary-aware segmentation architecture for accurate lesion delineation across multiple BUS datasets.
 
