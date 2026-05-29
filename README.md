@@ -60,22 +60,11 @@ Due to dataset licensing restrictions and repository size limitations, datasets 
 
 ---
 
-## CNN Encoder Benchmark
+## U-Net with replacable CNN Encoders 
 
-The framework systematically evaluates eleven CNN encoders:
-
-- ResNet50
-- ResNet101
-- DenseNet121
-- DenseNet169
-- EfficientNetB0
-- EfficientNetB3
-- EfficientNetB5
-- MobileNetV2
-- InceptionV3
-- VGG16
-- VGG19
-
+<p align="center">
+  <img src="assets/interface.png" width="100%">
+</p>
 ---
 
 ## Transformer Backbone Benchmark
