@@ -65,6 +65,7 @@ Due to dataset licensing restrictions and repository size limitations, datasets 
 <p align="center">
   <img src="assets/U-Net_Encoder.png" width="100%">
 </p>
+
 ---
 
 ## Transformer Backbone Benchmark
